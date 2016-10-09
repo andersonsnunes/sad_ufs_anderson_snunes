@@ -1,0 +1,10 @@
+idCliente;NCompleto;cpf;idLocacao;dtLocacao;dtDevolucao;tipoDisco;status;EndCompleto
+1;Adeilton dos Santos Nunes;76548355156;100010;29/05/2016;30/05/2016;DVD;true;Rua Santa Rosa, 143, Centro, 49010-640, Aracaju
+1;Adeilton dos Santos Nunes;76548355156;100063;19/09/2016;21/09/2016;DVD;false;Rua Santa Rosa, 143, Centro, 49010-640, Aracaju
+3;Elia Maria dos Santos Nunes;71862731730;100068;01/10/2016;03/10/2016;DVD;true;Rua Santa Rosa, 144, Centro, 49010-640, Aracaju
+3;Elia Maria dos Santos Nunes;71862731730;200012;25/09/2016;27/09/2016;Blu-Ray;true;Rua Santa Rosa, 144, Centro, 49010-640, Aracaju
+4;Elisangela dos Santos Nunes Menezes;95383048880;200013;26/09/2016;28/09/2016;Blu-Ray;true;Av. Augusto Franco, 919, Siqueira Campos, 49050-020, Aracaju
+5;Matheus de Jesus Menezes;73380914207;200001;14/09/2016;16/09/2016;Blu-Ray;false;Av. Augusto Franco, 919, Siqueira Campos, 49050-020, Aracaju
+6;Rodrigo Nunes de Menezes;50528704001;100003;15/09/2016;17/09/2016;DVD;true;Av. Augusto Franco, 919, Siqueira Campos, 49050-020, Aracaju
+6;Rodrigo Nunes de Menezes;50528704001;100020;01/10/2016;03/10/2016;DVD;true;Av. Augusto Franco, 919, Siqueira Campos, 49050-020, Aracaju
+6;Rodrigo Nunes de Menezes;50528704001;100036;27/09/2016;29/09/2016;DVD;true;Av. Augusto Franco, 919, Siqueira Campos, 49050-020, Aracaju
